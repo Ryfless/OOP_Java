@@ -1,3 +1,6 @@
+// Kode ini adalah kode untuk memecahkan kasus nomor 1 yakni program koperasi
+// Copyright 2024 All rights reserved
+
 class Alat_tulis {
     private String jenis;
     private int stok, hargaSatuan, hargaTotal;
@@ -71,3 +74,5 @@ public class nomor1 {
         at.tampil("\nTotal Harga: " + total);
     }
 }
+
+print("Code by Arazi")
