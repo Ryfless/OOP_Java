@@ -1,5 +1,3 @@
-package tugas1;
-
 class Alat_tulis {
     private String jenis;
     private int stok, hargaSatuan, hargaTotal;
